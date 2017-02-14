@@ -10,9 +10,9 @@
   <name>tsrtc</name>
   <url>http://maven.apache.org</url>
   <scm>
-		<url>https://github.com/GandhiGithub/devops.git</url>
-		<connection>scm:git:git://github.com/GandhiGithub/devops.git</connection>
-		<developerConnection>scm:git:git@github.com:GandhiGithub/devops.git</developerConnection>
+		<url>https://github.com/GandhiGithub/mavenpom.git</url>
+		<connection>scm:git:git://github.com/GandhiGithub/mavenpom.git</connection>
+		<developerConnection>scm:git:git@github.com:GandhiGithub/mavenpom.git</developerConnection>
 	  <tag>HEAD</tag>
   </scm>
 
